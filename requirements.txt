@@ -1,0 +1,17 @@
+## Requirements file for the Attention-Based NL-to-SQL Translator Project
+
+# Core Machine Learning Framework and Layers
+tensorflow
+
+# Data Handling and Numerics
+numpy
+pandas
+
+# Data Generation (If used for creating the initial synthetic dataset)
+Faker
+
+# Visualization
+matplotlib
+
+# Optional (If used for train/test split, etc.)
+# scikit-learn
